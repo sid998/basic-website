@@ -9,7 +9,7 @@ nav, .footer {
 }
 
 body {
-    background-color: #FFF7EE;
+    background-color: #FFF7EE !important;
 }
 
 .navbar-brand {
@@ -17,7 +17,7 @@ body {
 }
 
 .white-text {
-    color: white;
+    color: white !important;
 }
 
 .img-row {
